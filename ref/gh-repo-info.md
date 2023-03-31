@@ -1,0 +1,71 @@
+
+## GH Repo List Json Fields
+
+```ps1
+# capture by using:
+gh repo list --json 2>&1
+```
+- assignableUsers
+- codeOfConduct
+- contactLinks
+- createdAt
+- defaultBranchRef
+- deleteBranchOnMerge
+- description
+- diskUsage
+- forkCount
+- fundingLinks
+- hasDiscussionsEnabled
+- hasIssuesEnabled
+- hasProjectsEnabled
+- hasWikiEnabled
+- homepageUrl
+- id
+- isArchived
+- isBlankIssuesEnabled
+- isEmpty
+- isFork
+- isInOrganization
+- isMirror
+- isPrivate
+- isSecurityPolicyEnabled
+- issues
+- issueTemplates
+- isTemplate
+- isUserConfigurationRepository
+- labels
+- languages
+- latestRelease
+- licenseInfo
+- mentionableUsers
+- mergeCommitAllowed
+- milestones
+- mirrorUrl
+- name
+- nameWithOwner
+- openGraphImageUrl
+- owner
+- parent
+- primaryLanguage
+- projects
+- pullRequests
+- pullRequestTemplates
+- pushedAt
+- rebaseMergeAllowed
+- repositoryTopics
+- securityPolicyUrl
+- squashMergeAllowed
+- sshUrl
+- stargazerCount
+- templateRepository
+- updatedAt
+- url
+- usesCustomOpenGraphImage
+- viewerCanAdminister
+- viewerDefaultCommitEmail
+- viewerDefaultMergeMethod
+- viewerHasStarred
+- viewerPermission
+- viewerPossibleCommitEmails
+- viewerSubscription
+- watchers
